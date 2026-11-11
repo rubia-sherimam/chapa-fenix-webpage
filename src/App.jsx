@@ -22,7 +22,7 @@ const members = [
     role: "1º secretário",
     course: "Economia · 4º semestre",
     initials: "HN",
-    image: "/images/members/henrique-net.jpg",
+    image: "/images/members/henrique-queiros.jpg",
     bio: "Vê o Centro Acadêmico como agente transformador da vida universitária e quer construir pontes de diálogo entre estudantes e professores.",
   },
   {
